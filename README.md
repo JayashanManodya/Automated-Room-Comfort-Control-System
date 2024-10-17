@@ -15,6 +15,7 @@ As part of our Fundermentals of Computing Module(1st Year 1st Semester) in BSc (
 ☑️Humidity Control: With the DHT11 sensor, the system manages room humidity by controlling a humidifier and exhaust fan. The humidifier activates when humidity drops below the desired level, and the exhaust fan activates when humidity rises too high, maintaining an ideal balance.
 
 ☑️Blynk App Integration: The system is fully integrated with the Blynk app, enabling users to:
+
  ✔️Monitor real-time sensor data (lux, temperature, humidity) from anywhere.
  ✔️Manually control the blinds with a virtual switch, overriding the automated mode as desired.
  ✔️Toggle automation modes with a dedicated virtual switch, allowing users to enable or disable automation based on their preferences.
